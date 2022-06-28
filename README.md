@@ -1,3 +1,3 @@
 ## Resumen
 
-Imprime un hola mundo.
+Imprime un Hola Mundo.
