@@ -4,4 +4,3 @@ Imprime un Hola Mundo.
 
 Hola soy Rafael
 
-Hola soy Anthony 
